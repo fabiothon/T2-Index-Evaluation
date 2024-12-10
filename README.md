@@ -11,6 +11,7 @@ Datasource:
 Trattnig, S., Ohel, K., Mlynarik, V., Juras, V., Zbyn, S., & Korner, A. (2015). Morphological and compositional monitoring of a new cell-free cartilage repair hydrogel technology – GelrinC by MR using semi-quantitative MOCART scoring and quantitative T2 index and new zonal T2 index calculation. Osteoarthritis and Cartilage, 23(12), 2224–2232. https://doi.org/10.1016/j.joca.2015.07.007
 
 ## Application Overview
+![picture_1](https://github.com/user-attachments/assets/99afb8ba-646c-41ed-832d-f59b9a845990)
 
 ## Installation
 
